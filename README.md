@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning backend and devop stuffs.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me (linkedin)[https://linkedin.com/in/aditya-yaduvanshi]
+- 📫 How to reach me [https://linkedin.com/in/aditya-yaduvanshi](linkedin)
 
 <!---
 aditya-yaduvanshi/aditya-yaduvanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
