@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya-yaduvanshi
+- 👋 Namaskar, I’m @aditya-yaduvanshi
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning backend and devop stuffs.
 - 💞️ I’m looking to collaborate on projects.
